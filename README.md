@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @prinshu756  <br>- 🤖 Currently diving deep into Machine Learning (and loving it)  <br>- 🌐 Full Stack + Cyber Security explorer on the side  <br>- 📫 Reach me on LinkedIn: Prinshu Dewangan  <br>- 😄 Pronouns: he/him/pisu  <br>- ⚡ Fun fact: Unreal > Unity (no debates 😌)  <br>- 🎮 Another fun fact: I enjoy building games almost as much as playing them  <br><br>
+- 👋 Hi, I’m @prinshu756  <br>- 🤖 Currently diving deep into Machine Learning (and loving it)  <br>- 🌐 Full Stack + Cyber Security explorer on the side  <br>- 📫 Reach me on LinkedIn: Prinshu Dewangan  <br>- 😄 Pronouns: he/him/pisu  <br>- ⚡ Fun fact: Unreal > Unity (no debates 😌)  <br>- The more you fuck around , the more you find <br><br>
 
 
 ## 🌐 Socials:
