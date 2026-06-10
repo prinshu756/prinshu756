@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 - 👋 Hi, I’m @prinshu756  <br>
 - 🤖 Currently diving deep into Machine Learning (and loving it)  <br>
@@ -15,7 +16,7 @@
 
 ## 🏅 Holopin Badges
 
-[![An image of @prinshu756's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@prinshu756#badges)](https://holopin.io/@prinshu756#badges)
+[![An image of @prinshu756's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prinshu756#badges)](https://holopin.io/@prinshu756)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,6 +58,10 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=prinshu756&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
