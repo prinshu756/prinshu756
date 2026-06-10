@@ -15,7 +15,7 @@
 
 ## 🏅 Holopin Badges
 
-[![An image of @prinshu756's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prinshu756)](https://holopin.io/@prinshu756)
+[![An image of @prinshu756's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@prinshu756#badges)](https://holopin.io/@prinshu756#badges)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
