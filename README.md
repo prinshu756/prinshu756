@@ -1,24 +1,22 @@
 
-# 💫 About Me:
-- 👋 Hi, I’m @prinshu756  <br>
-- 🤖 Currently diving deep into Machine Learning (and loving it)  <br>
-- 🌐 Full Stack + Cyber Security explorer on the side  <br>
-- 📫 Reach me on LinkedIn: Prinshu Dewangan  <br>
-- 😄 Pronouns: he/him/pisu  <br>
-- ⚡ Fun fact: Unreal > Unity (no debates 😌)  <br>
+#  About Me:
+- Hi, I’m @prinshu756  <br>
+- Currently diving deep into Machine Learning (and loving it)  <br>
+- Full Stack + Cyber Security explorer on the side  <br>
+- Reach me on LinkedIn: Prinshu Dewangan  <br>
 - The more you fuck around , the more you find <br><br>
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prinshu.ipynb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prinshu_Dewangan)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prinshudewangan6@gmail.com)
 
-## 🏅 Holopin Badges
+## Holopin Badges
 
 [![An image of @prinshu756's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prinshu756#badges)](https://holopin.io/@prinshu756)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,21 +43,21 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://streak-stats.demolab.com?user=prinshu756&theme=radical&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prinshu756&theme=radical&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=prinshu756&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=prinshu756&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
