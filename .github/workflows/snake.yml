@@ -10,7 +10,9 @@ on:
 
 permissions:
   contents: write
-
+  
+outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=%23ff0000&color_dots=#23131313,#ffcccc,#ff8888,#ff4444,#ff0000
 jobs:
   generate:
     runs-on: ubuntu-latest
