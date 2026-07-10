@@ -65,5 +65,8 @@
 
 [![](https://komarev.com/ghpvc/?username=prinshu756&color=ff003c&style=flat-square)](https://visitcount.itsvg.in)
 
+![snake gif](https://raw.githubusercontent.com/prinshu756/prinshu756/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/prinshu756/prinshu756/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```
+
