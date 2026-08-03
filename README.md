@@ -43,11 +43,6 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
-# GitHub Stats:
-
-![](https://streak-stats.demolab.com?user=prinshu756&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prinshu756&theme=radical&hide_border=true&layout=compact)
 
 ## GitHub Trophies
 
