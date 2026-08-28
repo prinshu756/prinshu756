@@ -1,4 +1,4 @@
-Hey I'm Prinshu
+Ni hao  I'm Prinshu
 
-I used to tune machine and write logics to make decision <br>
-Finding La Peace in the ocean of unidentified struggle
+<i>I used to tune machine and write logics to make decision<i> <br>
+<i>Finding La Peace in the ocean of unidentified struggle<i>
